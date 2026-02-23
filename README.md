@@ -33,9 +33,9 @@ I'm a Researcher passionate about building robots, computer simulations and opti
 
 ### 📚 Publications
 
-* **First-order Optimization Algorithms: State of the Art, Classification, and Performance: A Practitioner’s Guide**,<br> *Published in Neural Computing and Applications, 2026* <br> 📄 [Read the Paper](paper0.pdf) | [🔗 www.doi.org](https://link.springer.com/journal/521/articles)
+* **First-order Optimization Algorithms: State of the Art, Classification, and Performance: A Practitioner’s Guide**,<br> *Published in Neural Computing and Applications 2026* <br> 📄 [Read the Paper](paper0.pdf) | [🔗 www.doi.org](https://link.springer.com/journal/521/articles)
 
-* **Fragmented Data-Driven Predictive Control: Towards smaller datasets**<br>*Published in Engineering Applications of Artificial Intelligence, 2026* 📄 [Read the Paper](paper1.pdf) | [🔗 www.doi.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5907028)
+* **Fragmented Data-Driven Predictive Control: Towards smaller datasets**<br>*Published in Engineering Applications of Artificial Intelligence 2026* <br> 📄 [Read the Paper](paper1.pdf) | [🔗 www.doi.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5907028)
 
 * **Driving Closer to the Limit: Improved Virtual Racecar Drivers with Data-Driven Control** <br>*Published in ASIASIM 2025*<br> 📄 [Read the Paper](paper2.pdf) | [🔗 www.doi.org](https://doi.org/10.1007/978-981-95-4472-1_14)
 
