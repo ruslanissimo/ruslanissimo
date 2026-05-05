@@ -25,9 +25,9 @@ I'm a Researcher passionate about building robots, computer simulations and opti
 
 ### Education
 
-* Bachelor degree with honors in **Robotics and Mechatronics**, SPbPU
-* Master degree in **Automation Engineering**, UNIBO
-* PhD in **Computer Science and Engineering**, UNIBO
+* Bachelor degree with honors in **Robotics and Mechatronics**, SPbPU - St.Petersburg, Russia 2020
+* Master degree in **Automation Engineering**, UNIBO - Bologna, Italy 2022
+* PhD in **Computer Science and Engineering**, UNIBO - Bologna, Italy 2026
 
 ---
 
