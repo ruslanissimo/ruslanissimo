@@ -16,18 +16,17 @@ I'm a Researcher passionate about building robots, computer simulations and opti
 
 ### 🚀 About Me
 
-* 🔭 **Currently focusing on:** Building intelligent systems using AI/ML, Robotics, and Embedded Software.
-* 🌱 **Always exploring:** New ways to merge complex algorithms with physical hardware to create autonomous solutions.
-* 👯 **Looking to collaborate on:** Open-source robotics projects, machine learning models, or innovative hardware integrations.
-* ⚡ **Engineering philosophy:** The most rewarding part of development is watching code and hardware come together to solve real-world problems.
+My research lies at the intersection of **computer simulation** and system **optimization**. I am particularly interested
+in developing **data-driven control** strategies and **digital twin** frameworks. My primary goal is to apply these
+methodologies to enhance the efficiency and reliability of **automotive systems** and **industrial robots**.
 
 ---
 
 ### Education
 
-* Bachelor degree with honors in **Robotics and Mechatronics**, SPbPU - St.Petersburg, Russia 2020
-* Master degree in **Automation Engineering**, UNIBO - Bologna, Italy 2022
 * PhD in **Computer Science and Engineering**, UNIBO - Bologna, Italy 2026
+* Master degree in **Automation Engineering**, UNIBO - Bologna, Italy 2022
+* Bachelor degree with honors in **Robotics and Mechatronics**, SPbPU - St.Petersburg, Russia 2020
 
 ---
 
