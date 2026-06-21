@@ -30,6 +30,47 @@ methodologies to enhance the efficiency and reliability of **automotive systems*
 
 ---
 
+### Projects
+
+#### Digital Twin for Formula One[^1]
+**Company:** Dallara Automobili S.p.A. | **Nov 2022 – Apr 2025** • 2 yrs.
+
+R&D of methods for data acquisition, processing, analysis, and optimization to build a high-fidelity digital twin of an F1 car.
+
+- Engineered automated pipeline for real-time **data acquisition and processing**, fully replacing manual workflows.
+- Deployed **quantitative methods** for vehicle deviation **analysis**, replacing intuition-based manual estimations.
+- Built a **parallelizable optimization pipeline** to auto-tune simulation parameters, significantly reducing computation time.
+
+**Technologies:** `Python` `PyTorch` `Optimization` `AI/ML`
+
+---
+
+#### Formula One Virtual Driver[^1]
+**Company:** Dallara Automobili S.p.A. | **Jan 2024 – Mar 2026** • 2 yrs.
+
+Development of a fully autonomous virtual driver for high-fidelity F1 simulation environments to accelerate vehicle dynamics R&D.
+
+- Developed a **Data-Enabled Predictive Control (DeePC)** system for high-fidelity lap-time simulators, fully replacing manual driver-in-the-loop and avoiding expensive physical track runs.
+- Engineered a **genetic algorithm** for trajectory optimization to minimize lap times and push the virtual vehicle to its limits.
+
+**Technologies:** `Python` `Control Systems` `DeePC` `OSQP` `AI/ML`
+
+---
+
+#### Robotic System for Switchgear Cabling
+**Company:** IEMA S.p.A. | **Oct 2021 – Oct 2022** • 1 yr.
+
+Design and implementation of a bilateral robotic system for automated switchgear cabling, aimed at ensuring high-precision assembly and eliminating human error.
+
+- Engineered a real-time tension-control algorithm for deformable object manipulation, simplifying complex cable routing and ensuring consistent assembly quality.
+- Designed and deployed a complete pick-and-place pipeline for switchgear cabling, significantly accelerating assembly speed and eliminating manual routing errors.
+
+**Technologies:** `C++` `ROS` `MoveIt` `UR5` `Robotics`
+
+---
+[^1]: Protected by Non-Disclosure Agreement (NDA)
+---
+
 ### 📚 Publications
 
 * **First-order Optimization Algorithms: State of the Art, Classification, and Performance: A Practitioner’s Guide**,<br> *Published in Neural Computing and Applications 2026* <br> 📄 [Read the Paper](paper0.pdf) | [🔗 www.doi.org](https://doi.org/10.1007/s00521-026-12014-1)
